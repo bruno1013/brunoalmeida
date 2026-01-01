@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I am Bruno:
 👨‍💻 I’m currently studying Data Science at CBS University in Coimbra  <br>🤝 I’m looking to collaborate on data analysis and machine learning projects  <br>🆘 I’m looking for help with improving my ML models and data visualization skills  <br>🌱 I’m currently learning Machine Learning, Python, Power BI, and data tools  <br>💬 Ask me about Data Science, coding, Power BI, and data analysis <br>⚽ Fun fact: I live in Portugal and I love playing football<br>
 
 
